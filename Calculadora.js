@@ -4,7 +4,7 @@ function sum() {
 
 function sub(a, b) {
     return a - b;
-    //aeohoo
+    //aeohoooo
 }
 
 function mult() {
