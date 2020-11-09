@@ -1,16 +1,15 @@
-function sum() {
+function sum(){
     //TODO: Implementar soma
 }
 
-function sub(a, b) {
-    return a - b;
-    //aeohoooo
+function sub(){
+    //TODO: Implementar subtração
 }
 
-function mult() {
+function mult(){
     //TODO: Implementar multiplicação
 }
 
-function div() {
+function div(){
     //TODO: Implementar divisão
 }
