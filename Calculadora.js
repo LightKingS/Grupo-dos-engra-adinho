@@ -1,17 +1,19 @@
 var prompt = require('prompt-sync')()
-function sum(){
+
+let a = Number(prompt('Digite um número: '))
+let b = Number(prompt('Digite outro número: '))
+
+function sum(a, b){
     //TODO: Implementar soma
-    var x = Number(prompt('Digite um número: '))
-    var y = Number(prompt('Digite outro número: '))
-    var soma = x + y
-    console.log(`A soma desses números é: ${soma}`)
+    return a + b;
 }
 function sub(){
     //TODO: Implementar subtração
 }
 
-function mult(){
+function mult(a, b){
     //TODO: Implementar multiplicação
+    return a * b;
 }
 
 function div(){
