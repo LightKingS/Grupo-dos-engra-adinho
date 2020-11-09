@@ -4,6 +4,8 @@
   "description": "",
   "main": "Calculadora.js",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
     "start": "^5.1.0"
   },
   "devDependencies": {},
