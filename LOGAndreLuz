@@ -1,0 +1,22 @@
+    1  node Calculadora.js
+    2  npm install prompt-sync
+    3  node Calculadora.js
+    4  git status
+    5  git add .
+    6  git status
+    7  git commit
+    8  gitmoji -c
+    9  git push origin Soma
+   10  git status
+   11  gitmoji -c
+   12  git checkout feature/ImplementaSoma
+   13  git checkout -b feature/ImplementaSoma
+   14  git status
+   15  git add .
+   16  gitmoji -c
+   17  history
+   18  git push origin feature/ImplementaSoma
+   19  git add .
+   20  gitmoji -c
+   21  git push origin feature/ImplementaSoma
+   22  history > LOGAndreLuz
