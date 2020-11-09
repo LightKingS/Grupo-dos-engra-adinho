@@ -11,8 +11,8 @@ function sub(a, b) {
     return a - b;
  }
 
-function mult(a, b){
-    return a * b;
+function mult(){
+
 }
 
 function div(a, b){
