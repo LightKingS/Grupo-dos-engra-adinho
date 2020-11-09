@@ -4,9 +4,9 @@
    1 git status                                                                                                                                                                                                                                 
    2 git add .  
    3 git checkout -b feature/ImplementaSubtracao
-   3 git commit -m 'Implementa Funcao de Subtracao'                                                                                                                                                                                             
-   4 git push origin feature/ImplementaSubtracao                                                                                                                                                                                                
-   5 git checkout                                                                                                                                                                                                                               
+   4 git commit -m 'Implementa Funcao de Subtracao'                                                                                                                                                                                             
+   5 git push origin feature/ImplementaSubtracao                                                                                                                                                                                                
+   6 git checkout                                                                                                                                                                                                                               
    7 git pull origin master                                                                                                                                                                                                                     
 
 
