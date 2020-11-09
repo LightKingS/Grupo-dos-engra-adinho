@@ -1,47 +1,33 @@
-    1  code .
-    2  cd ES3
-    3  dir
-    4  mkdir Projeto
-    5  cd
-    6  dir
-    7  cd ES3
-    8  dir
-    9  cd Projeto/
-   10  ls
-   11  cd Desktop/
-   12  cd Intracre
-   13  git clone git@github.com:mathfigue/intracre-backend.git
-   14  code .
-   15  cd Desktop/
-   16  git clone git@github.com:LightKingS/Grupo-dos-engra-adinho.git
-   17  code .
-   18  cd Grupo-dos-engra-adinho/
-   19  code .
-   20  dir
-   21  git status
-   22  git add .
-   23  git status
-   24  git commit -m "Alterando as variaveis da função multiplicar"
-   25  git pull origin feature/funcaoMultiplcar 
-   26  git push origin feature/funcaoMultiplcar 
-   27  git push origin feature/funcaoMultiplcar 
-   28  git checkout master
-   29  git pull origin master
-   30  git checkout -b funcaoMultiplicar
-   31  git status
-   32  git add .
-   33  git status
-   34  git commit -m "Alterando as variaveis da funcao multiplicar"
-   35  git push origin funcaoMultiplicar 
-   36  git branch -M funcaoMultiplicar feature/funcaoMultiplicar
-   37  git push origin feature/funcaoMultiplicar 
-   38  history > log_crramires
-   39  git status
-   40  git add .
-   41  git status
-   42  git commit -m "Enviando arquivo com historio de comandos do git"
-   43  git checkout -b feature/historico
-   44  git status
-   45  git push origin log_crramires
-   46  git checkout master
-   47  history > log_crramires
+   1  cd Desktop/
+   2  git clone git@github.com:LightKingS/Grupo-dos-engra-adinho.git
+   3  code .
+   4  cd Grupo-dos-engra-adinho/
+   5  code .
+   6  dir
+   7  git status
+   8  git add .
+   9  git status
+   10  git commit -m "Alterando as variaveis da função multiplicar"
+   11  git pull origin feature/funcaoMultiplcar 
+   12  git push origin feature/funcaoMultiplcar 
+   13  git push origin feature/funcaoMultiplcar 
+   14  git checkout master
+   15  git pull origin master
+   16  git checkout -b funcaoMultiplicar
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "Alterando as variaveis da funcao multiplicar"
+   21  git push origin funcaoMultiplicar 
+   22  git branch -M funcaoMultiplicar feature/funcaoMultiplicar
+   23  git push origin feature/funcaoMultiplicar 
+   24  history > log_crramires
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit -m "Enviando arquivo com historio de comandos do git"
+   29  git checkout -b feature/historico
+   30  git status
+   31  git push origin log_crramires
+   32  git checkout master
+   33  history > log_crramires
